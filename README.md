@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kowit An-chean
 ======================================================================================================================================
 
-A Computer Technology vocational diploma student.
+I'm a computer technology vocational diploma student.
 -------------------------------------------------
 
 I am interested in learning about web development and game creation.
